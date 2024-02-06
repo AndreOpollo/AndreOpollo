@@ -1,16 +1,22 @@
 ### Hi there 👋
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+Andrew+Opollo😊;Welcome+to+my+Github😜"> </h2>
 
-<!--
-**AndreOpollo/AndreOpollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Android Engineer from Kenya
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Currently focusing on **Android Development with React-Native**
+
+- 🔭 Also learning **NodeJs** for Backend Development
+
+- 📫 How to reach me **opolloandres@gmail.com**
+
+
+## Weekly Stats Update
+<!--START_SECTION:waka-->
+
+
+
+
+<!--END_SECTION:waka-->
+
+
