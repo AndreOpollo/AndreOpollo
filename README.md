@@ -14,8 +14,13 @@
 ## Weekly Stats Update
 <!--START_SECTION:waka-->
 
-
-
+```txt
+JavaScript   4 hrs 38 mins   ███████████████████████▓░   95.11 %
+Gradle       12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
+Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```
 
 <!--END_SECTION:waka-->
 
