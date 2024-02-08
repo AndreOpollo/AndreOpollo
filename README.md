@@ -11,7 +11,7 @@
 - 📫 How to reach me **opolloandres@gmail.com**
 
 
-## Weekly Stats Update
+## Stats Update
 <!--START_SECTION:waka-->
 
 ```txt
