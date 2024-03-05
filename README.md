@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=000000&lines=I'm+Andrew+Opollo😊;Welcome+to+my+Github😜"> </h2>
+<h2 align="left"><img src="https://readme-typing-svg.herokuapp.com?color='blue'&lines=I'm+Andrew+Opollo😊;Welcome+to+my+Github😜"> </h2>
 
 ## Android Engineer from Kenya
 
