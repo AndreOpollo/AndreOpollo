@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        3 hrs 17 mins   █████████████████▓░░░░░░░   70.73 %
-Java              28 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.39 %
-XML               22 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
-Java Properties   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Shell Script      6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+JavaScript        3 hrs 3 mins    █████████████▒░░░░░░░░░░░   53.07 %
+Java              1 hr 40 mins    ███████▒░░░░░░░░░░░░░░░░░   29.13 %
+XML               23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Java Properties   20 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+Properties        7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
