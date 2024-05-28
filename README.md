@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript        1 hr 46 mins    ████████████████████▒░░░░   81.98 %
-TSConfig          13 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.76 %
-Java Properties   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-JSON              2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-TypeScript        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+TypeScript        3 hrs 1 min     █████████████▓░░░░░░░░░░░   54.95 %
+JavaScript        1 hr 49 mins    ████████▒░░░░░░░░░░░░░░░░   33.27 %
+TSConfig          29 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
+Java Properties   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.87 %
+JSON              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
