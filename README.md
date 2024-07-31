@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        3 hrs 34 mins   █████████░░░░░░░░░░░░░░░░   36.19 %
-Python            2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.64 %
-JSON              2 hrs 1 min     █████░░░░░░░░░░░░░░░░░░░░   20.57 %
-Kotlin            1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
-Java Properties   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 %
+Python            3 hrs 51 mins   ██████████████▒░░░░░░░░░░   57.54 %
+TypeScript        2 hrs 7 mins    ████████░░░░░░░░░░░░░░░░░   31.80 %
+JSON              39 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.76 %
+GitIgnore file    3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Java Properties   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
 ```
 
 <!--END_SECTION:waka-->
