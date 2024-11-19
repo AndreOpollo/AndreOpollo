@@ -15,11 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin           4 hrs 49 mins   ████████████████████████░   95.73 %
-TOML             8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
-Properties       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-JSON             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+Kotlin   2 hrs 38 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
