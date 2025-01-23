@@ -4,7 +4,7 @@
 ## Android Engineer from Kenya
 
 
-- 🌱 Currently focusing on **Android Development with React-Native**
+- 🌱 Currently focusing on **Android Development with Kotlin, Flutter and React-Native**
 
 - 🔭 Also learning **NodeJs** for Backend Development
 
