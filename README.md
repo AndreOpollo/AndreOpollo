@@ -6,7 +6,7 @@
 
 - 🌱 Currently focusing on **Android Development with Kotlin, Flutter and React-Native**
 
-- 🔭 Also learning **NodeJs** for Backend Development
+- 🔭 Also learning **Kotlin Springboot** for Backend Development
 
 - 📫 How to reach me **opolloandres@gmail.com**
 
