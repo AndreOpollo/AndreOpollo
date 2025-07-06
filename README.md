@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                 10 hrs 53 mins  ███████████████████████░░   92.64 %
-TypeScript             18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
-XML                    8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Java                   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
-GitIgnore file         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+Kotlin                 5 hrs 50 mins   ██████████████████████▒░░   89.24 %
+TypeScript             18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
+XML                    7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+GitIgnore file         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+Shrinker Config File   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
 ```
 
 <!--END_SECTION:waka-->
