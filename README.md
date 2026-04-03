@@ -15,8 +15,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin   9 mins                ██████████████░░░░░░░░░░░   56.31 %
-XML      7 mins                ███████████░░░░░░░░░░░░░░   43.69 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
