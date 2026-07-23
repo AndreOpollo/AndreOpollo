@@ -15,7 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              1 hr 57 mins          █████████████████████▒░░░   84.91 %
+ECLiPSe           14 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.73 %
+IDEA_MODULE       5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
+GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
