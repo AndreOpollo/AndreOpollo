@@ -15,11 +15,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 13 mins         █████████████████████▓░░░   86.46 %
-ECLiPSe           14 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
-IDEA_MODULE       5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-GitIgnore file    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-Java Properties   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java              6 hrs 2 mins          ███████████████████████▒░   93.27 %
+ECLiPSe           15 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
+IDEA_MODULE       5 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+XML               3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+GitIgnore file    1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
